@@ -1,0 +1,12 @@
+# Created at 2024-11-08T14:32:44.806
+nov. 08, 2024 2:32:44 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2024-11-08T14:32:44.813
+WARNING: Possible configuration error: method [public void ParameterTest.testDivCero(int,int)] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
+# Created at 2024-11-08T14:32:44.915
+nov. 08, 2024 2:32:44 P. M. org.junit.jupiter.engine.discovery.MethodSelectorResolver resolve
+
+# Created at 2024-11-08T14:32:44.916
+WARNING: Possible configuration error: method [public void ParameterTest.testDivCero(int,int)] resulted in multiple TestDescriptors [org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor, org.junit.jupiter.engine.descriptor.TestTemplateTestDescriptor]. This is typically the result of annotating a method with multiple competing annotations such as @Test, @RepeatedTest, @ParameterizedTest, @TestFactory, etc.
+
