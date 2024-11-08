@@ -39,8 +39,5 @@ public class MiSweetSuite {
     
     @AfterEach
     public void tearDown() {
-    }
-
-  @Suite
-  
+    }  
 }
